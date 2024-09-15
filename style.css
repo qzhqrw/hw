@@ -1,0 +1,56 @@
+.arial{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Time new{
+    font-family: 'Times New Roman', Times, serif;
+}
+.square {
+    height: 50px;
+    width: 50px;
+    background-color: hsl(26, 91%, 51%);
+}
+.circle{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: hwb(281 6% 4%);
+}
+.orange{
+    color:hsl(26, 91%, 51%)
+}
+.purple{
+    color:hwb(281 6% 4%)
+}
+.Default{
+    background-color: rgb(75, 75, 202);
+    text-decoration: none;
+    color: aliceblue;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.Hovered {
+    background-color: hsl(240, 50%, 63%);
+    text-decoration: none;
+    color: aliceblue;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.Active {
+    background-color: #a5a5e6;
+    text-decoration: none;
+    color: aliceblue;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+body{
+    margin-left:200px;
+}
+body blockquote{
+    margin-right:5px;
+}
